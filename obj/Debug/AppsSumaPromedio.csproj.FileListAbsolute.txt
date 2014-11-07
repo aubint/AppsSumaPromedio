@@ -1,0 +1,5 @@
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsSumaPromedio\AppsSumaPromedio\bin\Debug\AppsSumaPromedio.exe.config
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsSumaPromedio\AppsSumaPromedio\bin\Debug\AppsSumaPromedio.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsSumaPromedio\AppsSumaPromedio\bin\Debug\AppsSumaPromedio.pdb
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsSumaPromedio\AppsSumaPromedio\obj\Debug\AppsSumaPromedio.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsSumaPromedio\AppsSumaPromedio\obj\Debug\AppsSumaPromedio.pdb
